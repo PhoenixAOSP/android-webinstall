@@ -14,6 +14,7 @@ const DEVICE_NAMES = {
     redfin: "Pixel 5",
     oriole: "Pixel 6",
     raven: "Pixel 6 Pro",
+    bluejay: "Pixel 6a",
 };
 
 export function getDeviceName(device) {

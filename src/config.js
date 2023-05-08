@@ -26,6 +26,10 @@ export default {
             name: "Pixel 6 Pro",
             model: "raven",
         },
+        {
+            name: "Pixel 6a",
+            model: "bluejay",
+        },
     ],
     RELEASE_VARIANTS: {
         minimal: {
