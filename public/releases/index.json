@@ -1,10 +1,24 @@
 {
     "latest": {
+        "oriole": [
+            {
+                "version": "13.1.0",
+                "variant": "gapps",
+                "url": "https://dl.lunarixus.dev/PhoenixAOSP/oriole/oriole-TQ2A.230505.002.A1-factory-38fa6ffc.zip"
+            }
+        ],
         "raven": [
             {
                 "version": "13.1.0",
                 "variant": "gapps",
-                "url": "https://lunarixus.dev/raven-TQ2A.230505.002.A1-factory-e49c3654.zip"
+                "url": "https://dl.lunarixus.dev/PhoenixAOSP/raven/raven-TQ2A.230505.002.A1-factory-c6bf6e45.zip"
+            }
+        ],
+        "bluejay": [
+            {
+                "version": "13.1.0",
+                "variant": "gapps",
+                "url": "https://dl.lunarixus.dev/PhoenixAOSP/bluejay/bluejay-TQ2A.230505.002.A1-factory-1c1c5e35.zip"
             }
         ]
     }
