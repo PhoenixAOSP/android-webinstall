@@ -3,22 +3,6 @@ export default {
     ACCENT_COLOR: "#cf6519",
     SUPPORTED_DEVICES: [
         {
-            name: "Pixel 4",
-            model: "flame",
-        },
-        {
-            name: "Pixel 4 XL",
-            model: "coral",
-        },
-        {
-            name: "Pixel 4a 5G",
-            model: "bramble",
-        },
-        {
-            name: "Pixel 5",
-            model: "redfin",
-        },
-        {
             name: "Pixel 6",
             model: "oriole",
         },
